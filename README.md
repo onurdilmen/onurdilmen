@@ -2,11 +2,11 @@
 
 <div align="center">
 
-### 🇹🇷 CTO @ E-Ship Supply | Full Stack Developer | 15+ Yıllık Deneyim
-### 🇬🇧 CTO @ E-Ship Supply | Full Stack Developer | 15+ Years of Experience
+### 🇹🇷 Senior Full-Stack Developer & Tech Lead | 10+ Yıllık Deneyim
+### 🇬🇧 Senior Full-Stack Developer & Tech Lead | 10+ Years of Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurdilmen/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://teknoweb.net)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://teknoweb.net)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onurdilmen@teknoweb.net)
 
 </div>
@@ -15,45 +15,55 @@
 
 ## 🇹🇷 Türkçe
 
-Yılda 1,300+ GitHub katkısıyla aktif olarak kod yazan, modern web teknolojileri konusunda uzmanlaşmış bir yazılım mimarıyım.
+10 yıllık deneyime sahip Senior Full-Stack Developer ve Tech Lead. Son 1 yılda **2.000+ GitHub katkısıyla** aktif olarak kod yazıyorum; modern web teknolojileri, B2B marketplace mimarileri ve gerçek zamanlı sistemler konusunda uzmanlaşmış bir yazılım geliştiriciyim.
 
-### 🚀 Güncel Rol - CTO @ E-Ship Supply
+### 🚀 Güncel Rol — Senior Full-Stack Developer & Tech Lead @ E-Ship Supply
 
-Global B2B denizcilik pazaryeri platformu geliştiriyorum:
-- 🏗️ **Turborepo** ile monorepo mimarisi kurdum
-- 💻 PostgreSQL üzerinde **86 Prisma modeli** ve **90+ API endpoint**
-- 🌍 Çoklu dil desteği (TR, EN, AR, RU) - i18n entegrasyonu
-- ⚡ **Socket.io** ve Redis ile real-time mesajlaşma
-- 🔐 **NextAuth.js** ile rol tabanlı kimlik doğrulama (RBAC)
+Türkiye'nin ilk denizcilik B2B pazaryeri [e-shipsupply.com](https://e-shipsupply.com) platformunu sıfırdan tasarlıyor ve teknik liderliğini yürütüyorum:
 
-### 🏢 TeknoWeb Teknoloji (Kurucu Ortak)
+- 🚢 **108+ doğrulanmış tedarikçi**, **720+ aktif ilan**, **%98 müşteri memnuniyet oranı** ile 4 dilde (TR, EN, AR, RU) yayında
+- 🏗️ **Turborepo** monorepo mimarisi üzerinde **Next.js 15 + NestJS + PostgreSQL + Prisma**
+- 💾 **86 Prisma modeli** ve **90+ RESTful API endpoint**'lik ölçeklenebilir veri mimarisi
+- ⚡ **Socket.io + Redis** ile 10.000+ eşzamanlı bağlantı kapasiteli gerçek zamanlı mesajlaşma
+- 🌍 Çoklu para birimi (USD, EUR, TRY) ve sağdan-sola (RTL) i18n altyapısı
+- 🔐 **NextAuth.js + JWT + RBAC** ile rol bazlı kimlik doğrulama
+- 🚀 **GitHub Actions CI/CD** + **Playwright E2E** ile deployment hatalarını %80 azalttım
+- 👥 Geliştirici ekibe teknik liderlik, code review, mimari kararlar ve onboarding
 
-2009'dan beri full-stack geliştirme ajansı işletiyorum:
-- 📦 **200+ başarılı proje** teslimi
-- 🎯 Enterprise ve startup çözümleri
-- 🔧 WordPress, Laravel, React ve özel geliştirmeler
+### 📌 Uzmanlık Alanlarım
+
+- **B2B Marketplace & SaaS mimarileri** (sıfırdan ürün geliştirme)
+- **Gerçek zamanlı sistemler** (WebSocket, Redis pub/sub)
+- **Ödeme entegrasyonları** (PayTR, Stripe, Iyzico)
+- **AI API entegrasyonları** (OpenAI, Face++)
+- **DevOps** (Docker, GitHub Actions, Linux sunucu yönetimi, LiteSpeed/CloudLinux)
 
 ---
 
 ## 🇬🇧 English
 
-I'm a software architect with 15+ years of experience, actively coding with 1,300+ GitHub contributions annually. I specialize in modern web technologies and building scalable B2B platforms.
+Senior Full-Stack Developer & Tech Lead with 10+ years of experience, actively coding with **2,000+ GitHub contributions** in the past year. I specialize in modern web technologies, B2B marketplace architectures, and real-time systems.
 
-### 🚀 Current Role - CTO @ E-Ship Supply
+### 🚀 Current Role — Senior Full-Stack Developer & Tech Lead @ E-Ship Supply
 
-Building a global B2B maritime marketplace platform:
-- 🏗️ Architected monorepo infrastructure with **Turborepo**
-- 💻 **86 Prisma models** and **90+ API endpoints** on PostgreSQL
-- 🌍 Multi-language support (TR, EN, AR, RU) with i18n
-- ⚡ Real-time messaging with **Socket.io** and Redis
-- 🔐 Role-based authentication with **NextAuth.js**
+Designing and leading the technical development of Turkey's first maritime B2B marketplace [e-shipsupply.com](https://e-shipsupply.com) from scratch:
 
-### 🏢 TeknoWeb Teknoloji (Co-Founder)
+- 🚢 **108+ verified suppliers**, **720+ active listings**, **98% customer satisfaction** — live in 4 languages (TR, EN, AR, RU)
+- 🏗️ **Turborepo** monorepo architecture with **Next.js 15 + NestJS + PostgreSQL + Prisma**
+- 💾 **86 Prisma models** and **90+ RESTful API endpoints** in a scalable data architecture
+- ⚡ **Socket.io + Redis** real-time messaging supporting 10,000+ concurrent connections
+- 🌍 Multi-currency (USD, EUR, TRY) and RTL-compatible i18n infrastructure
+- 🔐 **NextAuth.js + JWT + RBAC** role-based authentication
+- 🚀 **GitHub Actions CI/CD** + **Playwright E2E** testing — reduced deployment errors by 80%
+- 👥 Technical leadership, code review, architecture decisions, and team onboarding
 
-Since 2009, I've been running a full-stack development agency:
-- 📦 **200+ successful projects** delivered
-- 🎯 Enterprise and startup solutions
-- 🔧 WordPress, Laravel, React, and custom development
+### 📌 Areas of Expertise
+
+- **B2B Marketplace & SaaS architectures** (zero-to-production)
+- **Real-time systems** (WebSocket, Redis pub/sub)
+- **Payment integrations** (PayTR, Stripe, Iyzico)
+- **AI API integrations** (OpenAI, Face++)
+- **DevOps** (Docker, GitHub Actions, Linux server management, LiteSpeed/CloudLinux)
 
 ---
 
@@ -103,5 +113,9 @@ Since 2009, I've been running a full-stack development agency:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=onurdilmen&color=blueviolet&style=flat-square&label=Profil+Görüntüleme+/+Profile+Views" alt="Profile views" />
+
+**📫 İletişim | Contact:** [onurdilmen@teknoweb.net](mailto:onurdilmen@teknoweb.net)
+
+<img src="https://komarev.com/ghpvc/?username=onurdilmen&color=blueviolet&style=flat-square&label=Profil+Görüntüleme+/+Profile+Views" alt="Profile views" />
+
 </div>
