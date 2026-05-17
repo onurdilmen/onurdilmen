@@ -1,0 +1,26 @@
+name: 💡 Suggestion / Idea
+description: Suggest a new section, layout improvement, or content idea
+title: "[idea] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: idea
+    attributes:
+      label: One-line idea
+      placeholder: "e.g. 'Add a Wakatime stats widget'"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this valuable?
+      placeholder: "What signal does it send to visitors? How does it improve the profile?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: how
+    attributes:
+      label: How would it be implemented?
+      placeholder: "Workflow? External SVG? New markdown section?"

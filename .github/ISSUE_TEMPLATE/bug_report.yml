@@ -1,0 +1,56 @@
+name: 🐛 Bug / Broken rendering
+description: A section of the README isn't rendering correctly
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a rendering issue!
+
+        Most "broken" things on this README come from external image services
+        (shields.io, vercel apps, heroku endpoints) going down temporarily.
+        Please confirm with curl before opening if you can.
+
+  - type: input
+    id: section
+    attributes:
+      label: Which section / image is broken?
+      placeholder: "e.g. 'Career Highlights table is not full-width'"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      options:
+        - Chrome
+        - Safari
+        - Firefox
+        - Edge
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: theme
+    attributes:
+      label: GitHub theme
+      options:
+        - Dark
+        - Light
+        - Auto
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag and drop a screenshot of the broken render
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes

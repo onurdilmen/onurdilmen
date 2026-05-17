@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Open a Discussion
+    url: https://github.com/onurdilmen/onurdilmen/discussions
+    about: For open-ended questions or feedback, prefer Discussions.
+  - name: 📩 Email me directly
+    url: mailto:onurdilmen@teknoweb.net
+    about: For private collaboration, hiring, or security findings.
