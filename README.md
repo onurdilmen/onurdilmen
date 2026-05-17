@@ -1,13 +1,11 @@
-<!-- Header banner -->
+<!-- Header banner (self-hosted SVG, zero external deps) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=220&section=header&text=Onur%20Dilmen&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%26%20Tech%20Lead%20%C2%B7%2010%2B%20years&descAlignY=60&descSize=18" alt="header"/>
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/banner.svg" alt="Onur Dilmen — Senior Full-Stack Developer & Tech Lead" width="100%" />
 </p>
 
-<!-- Typing subtitle -->
 <p align="center">
-  <a href="https://teknoweb.net">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=2563EB&center=true&vCenter=true&width=720&lines=Building+B2B+marketplaces+%26+real-time+systems;Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+PostgreSQL;Tech+Lead+%40+E-Ship+Supply+%E2%80%94+Turkey%27s+maritime+B2B+platform;Currently+shipping+TeknoWeb+Platform+%26+Brahma+Market" alt="typing"/>
-  </a>
+  <b>Building B2B marketplaces &amp; real-time systems</b><br/>
+  <sub>Next.js · NestJS · Laravel · PostgreSQL · Tech Lead @ E-Ship Supply</sub>
 </p>
 
 <!-- Social row -->
@@ -95,8 +93,7 @@ Senior Full-Stack Developer & Tech Lead with 10+ years of experience. I speciali
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurdilmen&hide_border=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurdilmen&theme=tokyo-night&hide_border=true&area=true&height=180" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurdilmen&theme=tokyo-night&hide_border=true&area=true&height=240" />
 </p>
 
 <p align="center">
