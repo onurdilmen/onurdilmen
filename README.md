@@ -1,123 +1,165 @@
-# Merhaba, Ben Onur Dilmen 👋 | Hi there, I'm Onur Dilmen 👋
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=220&section=header&text=Onur%20Dilmen&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%26%20Tech%20Lead%20%C2%B7%2010%2B%20years&descAlignY=60&descSize=18" alt="header"/>
+</p>
 
-<div align="center">
+<!-- Typing subtitle -->
+<p align="center">
+  <a href="https://teknoweb.net">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=2563EB&center=true&vCenter=true&width=720&lines=Building+B2B+marketplaces+%26+real-time+systems;Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+PostgreSQL;Tech+Lead+%40+E-Ship+Supply+%E2%80%94+Turkey%27s+maritime+B2B+platform;Currently+shipping+TeknoWeb+Platform+%26+Brahma+Market" alt="typing"/>
+  </a>
+</p>
 
-### 🇹🇷 Senior Full-Stack Developer & Tech Lead | 10+ Yıllık Deneyim
-### 🇬🇧 Senior Full-Stack Developer & Tech Lead | 10+ Years of Experience
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurdilmen/)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://teknoweb.net)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onurdilmen@teknoweb.net)
-
-</div>
-
----
-
-## 🇹🇷 Türkçe
-
-10 yıllık deneyime sahip Senior Full-Stack Developer ve Tech Lead. Son 1 yılda **2.000+ GitHub katkısıyla** aktif olarak kod yazıyorum; modern web teknolojileri, B2B marketplace mimarileri ve gerçek zamanlı sistemler konusunda uzmanlaşmış bir yazılım geliştiriciyim.
-
-### 🚀 Güncel Rol — Senior Full-Stack Developer & Tech Lead @ E-Ship Supply
-
-Türkiye'nin ilk denizcilik B2B pazaryeri [e-shipsupply.com](https://e-shipsupply.com) platformunu sıfırdan tasarlıyor ve teknik liderliğini yürütüyorum:
-
-- 🚢 **108+ doğrulanmış tedarikçi**, **720+ aktif ilan**, **%98 müşteri memnuniyet oranı** ile 4 dilde (TR, EN, AR, RU) yayında
-- 🏗️ **Turborepo** monorepo mimarisi üzerinde **Next.js 15 + NestJS + PostgreSQL + Prisma**
-- 💾 **86 Prisma modeli** ve **90+ RESTful API endpoint**'lik ölçeklenebilir veri mimarisi
-- ⚡ **Socket.io + Redis** ile 10.000+ eşzamanlı bağlantı kapasiteli gerçek zamanlı mesajlaşma
-- 🌍 Çoklu para birimi (USD, EUR, TRY) ve sağdan-sola (RTL) i18n altyapısı
-- 🔐 **NextAuth.js + JWT + RBAC** ile rol bazlı kimlik doğrulama
-- 🚀 **GitHub Actions CI/CD** + **Playwright E2E** ile deployment hatalarını %80 azalttım
-- 👥 Geliştirici ekibe teknik liderlik, code review, mimari kararlar ve onboarding
-
-### 📌 Uzmanlık Alanlarım
-
-- **B2B Marketplace & SaaS mimarileri** (sıfırdan ürün geliştirme)
-- **Gerçek zamanlı sistemler** (WebSocket, Redis pub/sub)
-- **Ödeme entegrasyonları** (PayTR, Stripe, Iyzico)
-- **AI API entegrasyonları** (OpenAI, Face++)
-- **DevOps** (Docker, GitHub Actions, Linux sunucu yönetimi, LiteSpeed/CloudLinux)
+<!-- Social row -->
+<p align="center">
+  <a href="https://teknoweb.net"><img src="https://img.shields.io/badge/Website-teknoweb.net-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/onurdilmen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:onurdilmen@teknoweb.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=onurdilmen&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-## 🇬🇧 English
+## 🇹🇷 Hakkımda
 
-Senior Full-Stack Developer & Tech Lead with 10+ years of experience, actively coding with **2,000+ GitHub contributions** in the past year. I specialize in modern web technologies, B2B marketplace architectures, and real-time systems.
+10 yıllık deneyime sahip Senior Full-Stack Developer ve Tech Lead. Modern web mimarileri, B2B pazaryerleri ve gerçek zamanlı sistemler üzerine uzmanlaştım. Son bir yılda **3.600+ commit** ile aktif olarak ürün geliştiriyorum.
 
-### 🚀 Current Role — Senior Full-Stack Developer & Tech Lead @ E-Ship Supply
+**Şu an üzerinde çalıştığım işler:**
 
-Designing and leading the technical development of Turkey's first maritime B2B marketplace [e-shipsupply.com](https://e-shipsupply.com) from scratch:
-
-- 🚢 **108+ verified suppliers**, **720+ active listings**, **98% customer satisfaction** — live in 4 languages (TR, EN, AR, RU)
-- 🏗️ **Turborepo** monorepo architecture with **Next.js 15 + NestJS + PostgreSQL + Prisma**
-- 💾 **86 Prisma models** and **90+ RESTful API endpoints** in a scalable data architecture
-- ⚡ **Socket.io + Redis** real-time messaging supporting 10,000+ concurrent connections
-- 🌍 Multi-currency (USD, EUR, TRY) and RTL-compatible i18n infrastructure
-- 🔐 **NextAuth.js + JWT + RBAC** role-based authentication
-- 🚀 **GitHub Actions CI/CD** + **Playwright E2E** testing — reduced deployment errors by 80%
-- 👥 Technical leadership, code review, architecture decisions, and team onboarding
-
-### 📌 Areas of Expertise
-
-- **B2B Marketplace & SaaS architectures** (zero-to-production)
-- **Real-time systems** (WebSocket, Redis pub/sub)
-- **Payment integrations** (PayTR, Stripe, Iyzico)
-- **AI API integrations** (OpenAI, Face++)
-- **DevOps** (Docker, GitHub Actions, Linux server management, LiteSpeed/CloudLinux)
+- 🚢 [E-Ship Supply](https://e-shipsupply.com) — Türkiye'nin ilk denizcilik B2B pazaryerinin teknik liderliği (108+ tedarikçi · 720+ ilan · 4 dil)
+- 🌐 TeknoWeb Platform — WHMCS alternatifi modern hosting otomasyonu (Next.js + NestJS)
+- 🛒 Brahma Market — Plugin mimarili premium e-ticaret altyapısı
+- 🔐 [Sentinel](https://github.com/onurdilmen/sentinel) — cPanel/WHM güvenlik denetim aracı
 
 ---
 
-## 🛠️ Tech Stack | Teknoloji Yığını
+## 🇬🇧 About
 
-<div align="center">
+Senior Full-Stack Developer & Tech Lead with 10+ years of experience. I specialize in modern web architectures, B2B marketplaces, and real-time systems. Currently shipping production code with **3,600+ commits** in the past year.
 
-**Frontend:**
+**What I'm building now:**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend:**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**DevOps & Tools:**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
+- 🚢 Technical leadership of [E-Ship Supply](https://e-shipsupply.com) — Turkey's first maritime B2B marketplace
+- 🌐 TeknoWeb Platform — modern hosting automation
+- 🛒 Brahma Market — plugin-based commerce platform
+- 🔐 [Sentinel](https://github.com/onurdilmen/sentinel) — cPanel/WHM security audit toolkit
 
 ---
 
-## 📊 GitHub Stats | GitHub İstatistikleri
+## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurdilmen&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurdilmen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdilmen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<table>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Hono-FF7000?style=flat-square&logo=hono&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</td></tr>
+<tr><td><b>Data</b></td><td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</td></tr>
+<tr><td><b>Infra</b></td><td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+</td></tr>
+<tr><td><b>Realtime</b></td><td>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-4353FF?style=flat-square&logo=webrtc&logoColor=white" />
+</td></tr>
+</table>
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-**📫 İletişim | Contact:** [onurdilmen@teknoweb.net](mailto:onurdilmen@teknoweb.net)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onurdilmen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&card_width=445" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurdilmen&hide_border=true&theme=tokyonight" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdilmen&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&card_width=445" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurdilmen&theme=tokyo-night&hide_border=true&area=true&height=180" height="180"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=onurdilmen&color=blueviolet&style=flat-square&label=Profil+Görüntüleme+/+Profile+Views" alt="Profile views" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=onurdilmen&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</p>
 
-</div>
+<!-- Snake animation generated by GitHub Action -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/output/github-snake-dark.svg" alt="snake" />
+</p>
 
-<!-- last touched: 2026-05-17 -->
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🚢 E-Ship Supply](https://github.com/onurdilmen/e-shipsupply-showcase)
+
+Turkey's first maritime B2B marketplace. Designed and lead the technical development from scratch — 108+ verified suppliers, 720+ listings, 4 languages, real-time messaging with 10K+ concurrent connections.
+
+`Next.js 15` · `NestJS` · `PostgreSQL` · `Prisma` · `Socket.io` · `Redis` · `Turborepo`
+
+</td>
+<td width="50%" valign="top">
+
+### [🚀 Next.js + NestJS Starter](https://github.com/onurdilmen/nextjs-nestjs-starter)
+
+Production-ready full-stack monorepo template combining Next.js 15 with NestJS 11. JWT, RBAC, Swagger, CI/CD, Docker out of the box.
+
+`Turborepo` · `TypeScript` · `Prisma` · `Docker` · `GitHub Actions`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🍅 Pomodoro Menubar](https://github.com/onurdilmen/pomodoro-menubar)
+
+Tiny native macOS menu bar Pomodoro timer (~176KB binary). Swift + WebKit hybrid, MIT-licensed.
+
+`Swift` · `WebKit` · `macOS`
+
+</td>
+<td width="50%" valign="top">
+
+### [🛡 Sentinel](https://github.com/onurdilmen/sentinel)
+
+cPanel/WHM security audit and hardening tool. Scans for common misconfigurations, weak permissions, and known CVEs in shared hosting environments.
+
+`Python` · `cPanel` · `Security`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 Get in touch
+
+If you're working on a B2B platform, a maritime / logistics product, a SaaS launch, or anything that benefits from a senior engineer who has shipped real Turkish products at scale — [say hi](mailto:onurdilmen@teknoweb.net).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:1e3a8a&height=100&section=footer" alt="footer"/>
+</p>
