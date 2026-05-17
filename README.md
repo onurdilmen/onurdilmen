@@ -119,3 +119,5 @@ Designing and leading the technical development of Turkey's first maritime B2B m
 <img src="https://komarev.com/ghpvc/?username=onurdilmen&color=blueviolet&style=flat-square&label=Profil+Görüntüleme+/+Profile+Views" alt="Profile views" />
 
 </div>
+
+<!-- last touched: 2026-05-17 -->
