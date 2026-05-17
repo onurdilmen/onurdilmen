@@ -1,5 +1,6 @@
 <!-- =========================================================
      Header banner (self-hosted SVG, zero external deps)
+     Works on both dark and light themes (gradient with white text)
      ========================================================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/banner.svg" alt="Onur Dilmen — Senior Full-Stack Developer & Tech Lead" width="100%" />
@@ -27,8 +28,12 @@
   <img alt="X Followers" src="https://img.shields.io/twitter/follow/yazilimuzm?style=flat-square&logo=x&logoColor=white&color=000000&label=%40yazilimuzm" />
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/onurdilmen?style=flat-square&logo=github&logoColor=white&color=181717&label=Follow" />
   <img alt="Stars" src="https://img.shields.io/github/stars/onurdilmen?style=flat-square&logo=github&logoColor=white&color=f5b400&label=Stars" />
-  <img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white" />
+  <a href="https://github.com/sponsors/onurdilmen"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white" /></a>
 </p>
+
+> [!TIP]
+> 🇹🇷 **Bu profil iki dilli okunabilir.** Türkçe bölümler önce, English follows. ·
+> 🇬🇧 **This profile is bilingual.** Turkish sections first, English follows.
 
 ---
 
@@ -58,43 +63,51 @@ Senior Full-Stack Developer & Tech Lead with 10+ years of experience. I speciali
 
 ## 🎯 Career Highlights
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>200+</h3>
-<sub>özel proje teslimi<br/>custom projects shipped<br/>(2016 → 2026)</sub>
-</td>
-<td align="center" width="25%">
-<h3>100+</h3>
-<sub>aktif müşteri<br/>active clients<br/>(TeknoWeb dönemi)</sub>
-</td>
-<td align="center" width="25%">
-<h3>10K+</h3>
-<sub>eşzamanlı bağlantı<br/>concurrent connections<br/>(Socket.io + Redis)</sub>
-</td>
-<td align="center" width="25%">
-<h3>4</h3>
-<sub>dil + RTL<br/>languages + RTL i18n<br/>(TR · EN · AR · RU)</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h3>86</h3>
-<sub>Prisma model<br/>data models<br/>(E-Ship Supply)</sub>
-</td>
-<td align="center">
-<h3>90+</h3>
-<sub>REST endpoint<br/>API endpoints<br/>(NestJS + Swagger)</sub>
-</td>
-<td align="center">
-<h3>%80</h3>
-<sub>deployment hata azalması<br/>fewer deploy failures<br/>(after CI/CD redesign)</sub>
-</td>
-<td align="center">
-<h3>%200</h3>
-<sub>sipariş artışı<br/>order growth<br/>(PROUD, 6 ay)</sub>
-</td>
-</tr>
+<table width="100%" align="center" style="table-layout:fixed">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h2>200+</h2>
+      <b>Özel Proje</b><br/>
+      <sub>custom projects shipped<br/><i>2016 → 2026</i></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>100+</h2>
+      <b>Aktif Müşteri</b><br/>
+      <sub>active clients<br/><i>TeknoWeb dönemi</i></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>10K+</h2>
+      <b>Eşzamanlı Bağlantı</b><br/>
+      <sub>concurrent connections<br/><i>Socket.io + Redis</i></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>4 + RTL</h2>
+      <b>Dil &amp; i18n</b><br/>
+      <sub>TR · EN · AR · RU<br/><i>right-to-left ready</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h2>86</h2>
+      <b>Prisma Modeli</b><br/>
+      <sub>data models<br/><i>E-Ship Supply core</i></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>90+</h2>
+      <b>REST Endpoint</b><br/>
+      <sub>API endpoints<br/><i>NestJS + Swagger</i></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>%80 ↓</h2>
+      <b>Deploy Hatası</b><br/>
+      <sub>fewer deploy failures<br/><i>after CI/CD redesign</i></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h2>%200 ↑</h2>
+      <b>Sipariş Artışı</b><br/>
+      <sub>order growth<br/><i>PROUD, 6 months</i></sub>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -110,6 +123,9 @@ I don't ship boilerplates. I build bespoke systems end-to-end — from design to
 - 🚀 **Ship daily, refactor weekly** — `main` is always deployable, feature flags over long-lived branches
 - 🔒 **Security by default** — devlet düzeyi tehdit modeli, zero-trust, audit-log everything
 - 🎯 **Measure before optimizing** — p99 over p50, real user monitoring over local benchmarks
+
+> [!IMPORTANT]
+> **🟢 Currently open for hire** — senior full-stack roles, technical leadership, B2B platform consulting, SaaS launch advisory. [Get in touch →](mailto:onurdilmen@teknoweb.net)
 
 ---
 
@@ -133,8 +149,8 @@ I don't ship boilerplates. I build bespoke systems end-to-end — from design to
 
 ## 🛠 Tech Stack
 
-<table>
-<tr><td><b>Frontend</b></td><td>
+<table width="100%">
+<tr><td width="15%"><b>Frontend</b></td><td>
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -181,15 +197,17 @@ I don't ship boilerplates. I build bespoke systems end-to-end — from design to
 
 ---
 
-## 🚧 Now — May 2026
+## 🚧 Now — Currently Shipping
 
-What I'm actively shipping this month:
+What I'm actively building this month (✅ shipped · 🟡 in progress · ⚪ planned):
 
-- 🚢 **E-Ship Supply v3** — Migration to MySQL pooling + Prisma 6, fleet ops module, AR/RU full L10n pass
-- 🌐 **TeknoWeb Platform** — WHMCS → custom hosting automation, account provisioning state machine
-- 🛒 **Brahma Market** — Plugin marketplace MVP (commerce plugins as first-class repos)
-- 🔐 **Sentinel** — Adding CVE feed integration, daily WHM scan reports, R2 backup verification
-- 📚 **LocalTR** — macOS app for offline geographic data, Swift + Sparkle auto-update channel
+- [x] 🚢 **E-Ship Supply v3** — MySQL pooling + Prisma 6 migration _(production)_
+- [ ] 🚢 E-Ship Supply v3 — fleet ops module _(in progress, May 2026 launch)_
+- [ ] 🌐 TeknoWeb Platform — WHMCS migration, account provisioning state machine
+- [ ] 🛒 Brahma Market — plugin marketplace MVP (commerce plugins as first-class repos)
+- [ ] 🔐 Sentinel — CVE feed integration, daily WHM scan reports, R2 backup verification
+- [ ] 📚 LocalTR — Sparkle auto-update channel for macOS app
+- [ ] 🏗️ This profile README — keep evolving (you're looking at iteration #8)
 
 ---
 
@@ -243,11 +261,40 @@ graph LR
 - 🔁 **Background jobs over inline work** — every email, every webhook, every invoice generation goes through BullMQ. P95 user-facing latency stays under 200ms.
 - 🛡️ **RBAC enforced server-side, not client-side** — UI hides features; API rejects them. Two layers.
 
+<details>
+<summary><b>📐 Click for deployment topology &amp; scaling notes</b></summary>
+
+### Deployment topology
+
+- **Edge (Cloudflare):** WAF rules, image optimization, KV cache for hot product pages, R2 for static media
+- **Web tier (Hetzner Helsinki):** Next.js 15 served via Node.js cluster behind LiteSpeed; PM2 process manager; zero-downtime via blue-green deploy
+- **API tier (Hetzner Falkenstein):** NestJS 11 on Node 20, deployed via GitHub Actions → SSH → systemd; auto-scaling via additional worker boxes triggered by BullMQ queue depth
+- **Data tier:** Postgres 17 primary + 1 read replica with logical replication; Redis 7 cluster mode (3 nodes) for pub/sub fan-out
+- **Object storage:** Cloudflare R2 (S3-compatible) for media, invoices, daily DB dumps; lifecycle policies push old artifacts to glacier-equivalent
+
+### Scaling story so far
+
+| Stage      | Concurrent users                    | Stack response                                         |
+| ---------- | ----------------------------------- | ------------------------------------------------------ |
+| MVP launch | 50                                  | Single CX22, monolithic NestJS                         |
+| Month 2    | 800                                 | Added Redis, extracted worker queues                   |
+| Month 4    | 2K                                  | Added read replica, edge-cached listing pages          |
+| Month 6    | 10K                                 | Socket.io pub/sub fan-out, Postgres connection pooling |
+| **Today**  | **15K daily / 10K concurrent peak** | Stable on the same €4.59/mo CX22 + replica             |
+
+### What I'd do differently
+
+- Start with read-write splitting from day one (retrofitting was painful)
+- Use Cloudflare Tunnel earlier — Hetzner firewall management got messy
+- Adopt feature flags from the start (LaunchDarkly or self-host Unleash)
+
+</details>
+
 ---
 
 ## 🚀 Featured Work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -304,20 +351,20 @@ cPanel/WHM security audit and hardening tool. Scans for common misconfigurations
 
 <!-- Auto-generated daily by .github/workflows/metrics.yml (lowlighter/metrics) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/github-metrics.svg" alt="metrics" />
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/github-metrics.svg" alt="metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurdilmen&theme=tokyo-night&hide_border=true&area=true&height=240" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurdilmen&theme=react-dark&hide_border=true&area=true&height=260" alt="activity graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onurdilmen&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=onurdilmen&theme=flat&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10" alt="trophies" width="100%" />
 </p>
 
 <!-- Snake animation generated by GitHub Action -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/output/github-snake-dark.svg" alt="snake eating contributions" />
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/output/github-snake-dark.svg" alt="snake eating contributions" width="100%" />
 </p>
 
 ---
@@ -361,26 +408,34 @@ Recent contributions to public projects (active goal: regular OSS upstream).
 
 The actual tools I touch every day — not aspirational, the real workflow:
 
-| Layer    | Tool                                                                |
-| -------- | ------------------------------------------------------------------- |
-| Editor   | Cursor + Claude Code (yes, this README was paired with AI)          |
-| Terminal | iTerm 2 + zsh + Starship prompt                                     |
-| Git      | `gh` CLI + lazygit · Gitea (self-hosted) for private                |
-| DB       | TablePlus · psql · Prisma Studio                                    |
-| API      | Bruno (offline-first) · curl                                        |
-| Design   | Figma · Affinity Designer for static assets                         |
-| Notes    | Apple Notes (capture) · Obsidian (long-form)                        |
-| Deploy   | Vercel · Hetzner Cloud · Cloudflare · cPanel/WHM                    |
-| Monitor  | Grafana + Loki · UptimeRobot · Sentry                               |
-| Mac apps | Raycast · Rectangle · Hyperkey · TablePlus · Pomodoro Menubar (own) |
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="20%">Layer</th>
+<th align="left">Tool</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><b>Editor</b></td><td>Cursor + Claude Code <sub>(yes, this README was paired with AI)</sub></td></tr>
+<tr><td><b>Terminal</b></td><td>iTerm 2 · zsh · Starship prompt</td></tr>
+<tr><td><b>Git</b></td><td><code>gh</code> CLI · lazygit · Gitea (self-hosted) for private</td></tr>
+<tr><td><b>DB</b></td><td>TablePlus · psql · Prisma Studio</td></tr>
+<tr><td><b>API</b></td><td>Bruno (offline-first) · curl</td></tr>
+<tr><td><b>Design</b></td><td>Figma · Affinity Designer for static assets</td></tr>
+<tr><td><b>Notes</b></td><td>Apple Notes (capture) · Obsidian (long-form)</td></tr>
+<tr><td><b>Deploy</b></td><td>Vercel · Hetzner Cloud · Cloudflare · cPanel/WHM</td></tr>
+<tr><td><b>Monitor</b></td><td>Grafana + Loki · UptimeRobot · Sentry</td></tr>
+<tr><td><b>Mac apps</b></td><td>Raycast · Rectangle · Hyperkey · TablePlus · Pomodoro Menubar <sub>(own)</sub></td></tr>
+</tbody>
+</table>
 
 ---
 
 ## 🌐 Languages
 
 <p>
-  <img alt="Turkish" src="https://img.shields.io/badge/Türkçe-anadil%20·%20native-E30A17?style=flat-square" />
-  <img alt="English" src="https://img.shields.io/badge/English-B2%20·%20professional%20working-012169?style=flat-square" />
+  <img alt="Turkish" src="https://img.shields.io/badge/Türkçe-anadil%20·%20native-E30A17?style=for-the-badge" />
+  <img alt="English" src="https://img.shields.io/badge/English-B2%20·%20professional%20working-012169?style=for-the-badge" />
 </p>
 
 ---
@@ -399,6 +454,9 @@ I share build-in-public notes, Turkish dev tips, and the occasional production w
 
 ## 💬 Get in touch
 
+> [!NOTE]
+> Hiring? Consulting? Open-source collab? Pick whichever channel suits you — I read everything within 24h.
+
 If you're working on a B2B platform, a maritime / logistics product, a SaaS launch, a hosting automation project, or anything that benefits from a senior engineer who has shipped real Turkish products at scale — [say hi](mailto:onurdilmen@teknoweb.net).
 
 <p align="center">
@@ -411,5 +469,5 @@ If you're working on a B2B platform, a maritime / logistics product, a SaaS laun
 <p align="center"><sub>📍 İstanbul, Turkey · 🕒 UTC+3 · <a href="https://github.com/onurdilmen/onurdilmen/blob/main/README.md">Last updated automatically</a></sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:1e3a8a&height=100&section=footer" alt="footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:1e3a8a&height=100&section=footer" alt="footer wave" width="100%"/>
 </p>
