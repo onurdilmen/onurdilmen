@@ -221,6 +221,8 @@ What I'm actively building this month (✅ shipped · 🟡 in progress · ⚪ pl
 - [ ] 📚 LocalTR — Sparkle auto-update channel for macOS app
 - [ ] 🏗️ This profile README — keep evolving (you're looking at iteration #8)
 
+📋 **Full roadmap as a public kanban board:** [github.com/users/onurdilmen/projects/2](https://github.com/users/onurdilmen/projects/2)
+
 ---
 
 ## 📚 Currently Exploring
