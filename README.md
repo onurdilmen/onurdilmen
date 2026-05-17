@@ -153,8 +153,16 @@ I don't ship boilerplates. I build bespoke systems end-to-end — from design to
 
 ## 🛠 Tech Stack
 
-<table width="100%">
-<tr><td width="15%"><b>Frontend</b></td><td>
+<table>
+<tr>
+<td>
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-200.svg" width="170" height="1" alt="" />
+</td>
+<td>
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-640.svg" width="670" height="1" alt="" />
+</td>
+</tr>
+<tr><td><b>Frontend</b></td><td>
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
