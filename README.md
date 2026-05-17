@@ -456,6 +456,33 @@ The actual tools I touch every day — not aspirational, the real workflow:
 
 ---
 
+## ✍️ Recent Writing
+
+<table>
+<tr>
+<td>
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-200.svg" width="200" height="1" alt="" />
+</td>
+<td>
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-640.svg" width="640" height="1" alt="" />
+</td>
+</tr>
+<tr>
+<td><b>📝 Gist</b></td>
+<td><a href="https://gist.github.com/onurdilmen/3ac7caa3fd7bf5ca455e6dc6e8c87228"><b>10 Lessons From 10 Years Of Full-Stack Engineering</b></a> — the expensive lessons from 200+ shipped projects, in 10 short bullets</td>
+</tr>
+<tr>
+<td><b>🐦 X thread</b></td>
+<td><a href="https://x.com/yazilimuzm">Build-in-public notes and production war stories</a> (follow <a href="https://x.com/yazilimuzm">@yazilimuzm</a>)</td>
+</tr>
+<tr>
+<td><b>🌐 Long-form</b></td>
+<td><a href="https://teknoweb.net">teknoweb.net</a> — agency site with case studies <sub>(blog coming soon)</sub></td>
+</tr>
+</table>
+
+---
+
 ## 📡 Latest From X
 
 <p>
