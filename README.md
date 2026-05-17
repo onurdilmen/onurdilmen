@@ -63,46 +63,50 @@ Senior Full-Stack Developer & Tech Lead with 10+ years of experience. I speciali
 
 ## 🎯 Career Highlights
 
-<table width="100%" align="center" style="table-layout:fixed">
+<table>
   <tr>
-    <td width="25%" align="center" valign="top">
+    <td align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-200.svg" width="200" height="1" alt="" /><br/>
       <h2>200+</h2>
       <b>Özel Proje</b><br/>
       <sub>custom projects shipped<br/><i>2016 → 2026</i></sub>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-200.svg" width="200" height="1" alt="" /><br/>
       <h2>100+</h2>
       <b>Aktif Müşteri</b><br/>
       <sub>active clients<br/><i>TeknoWeb dönemi</i></sub>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-200.svg" width="200" height="1" alt="" /><br/>
       <h2>10K+</h2>
       <b>Eşzamanlı Bağlantı</b><br/>
       <sub>concurrent connections<br/><i>Socket.io + Redis</i></sub>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-200.svg" width="200" height="1" alt="" /><br/>
       <h2>4 + RTL</h2>
       <b>Dil &amp; i18n</b><br/>
       <sub>TR · EN · AR · RU<br/><i>right-to-left ready</i></sub>
     </td>
   </tr>
   <tr>
-    <td width="25%" align="center" valign="top">
+    <td align="center" valign="top">
       <h2>86</h2>
       <b>Prisma Modeli</b><br/>
       <sub>data models<br/><i>E-Ship Supply core</i></sub>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td align="center" valign="top">
       <h2>90+</h2>
       <b>REST Endpoint</b><br/>
       <sub>API endpoints<br/><i>NestJS + Swagger</i></sub>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td align="center" valign="top">
       <h2>%80 ↓</h2>
       <b>Deploy Hatası</b><br/>
       <sub>fewer deploy failures<br/><i>after CI/CD redesign</i></sub>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td align="center" valign="top">
       <h2>%200 ↑</h2>
       <b>Sipariş Artışı</b><br/>
       <sub>order growth<br/><i>PROUD, 6 months</i></sub>
@@ -408,11 +412,15 @@ Recent contributions to public projects (active goal: regular OSS upstream).
 
 The actual tools I touch every day — not aspirational, the real workflow:
 
-<table width="100%">
+<table>
 <thead>
 <tr>
-<th align="left" width="20%">Layer</th>
-<th align="left">Tool</th>
+<th align="left">
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-200.svg" width="200" height="1" alt="" /><br/>Layer
+</th>
+<th align="left">
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/spacer-640.svg" width="640" height="1" alt="" /><br/>Tool
+</th>
 </tr>
 </thead>
 <tbody>
