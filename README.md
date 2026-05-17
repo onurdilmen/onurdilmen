@@ -100,10 +100,6 @@ Senior Full-Stack Developer & Tech Lead with 10+ years of experience. I speciali
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/github-languages.svg" alt="languages" width="450" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=onurdilmen&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
