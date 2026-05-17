@@ -89,13 +89,18 @@ Senior Full-Stack Developer & Tech Lead with 10+ years of experience. I speciali
 
 ## 📊 GitHub Stats
 
+<!-- Auto-generated daily by .github/workflows/metrics.yml (lowlighter/metrics) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurdilmen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&card_width=445" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurdilmen&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/github-metrics.svg" alt="metrics" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdilmen&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&card_width=445" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurdilmen&hide_border=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onurdilmen&theme=tokyo-night&hide_border=true&area=true&height=180" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/github-languages.svg" alt="languages" width="450" />
 </p>
 
 <p align="center">
