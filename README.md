@@ -253,7 +253,7 @@ graph LR
 
 ### [🚢 E-Ship Supply](https://github.com/onurdilmen/e-shipsupply-showcase)
 
-<img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/screenshots/eshipsupply-hero.webp" alt="E-Ship Supply" width="100%" onerror="this.style.display='none'"/>
+<img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/screenshots/eshipsupply-hero.svg" alt="E-Ship Supply preview" width="100%"/>
 
 Turkey's first maritime B2B marketplace. Designed and lead the technical development from scratch — 108+ verified suppliers, 720+ listings, 4 languages, real-time messaging with 10K+ concurrent connections.
 
@@ -264,7 +264,7 @@ Turkey's first maritime B2B marketplace. Designed and lead the technical develop
 
 ### [🚀 Next.js + NestJS Starter](https://github.com/onurdilmen/nextjs-nestjs-starter)
 
-<img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/screenshots/nextjs-nestjs-starter.webp" alt="Next.js NestJS Starter" width="100%" onerror="this.style.display='none'"/>
+<img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/screenshots/nextjs-nestjs-starter.svg" alt="Next.js NestJS Starter preview" width="100%"/>
 
 Production-ready full-stack monorepo template combining Next.js 15 with NestJS 11. JWT, RBAC, Swagger, CI/CD, Docker out of the box.
 
@@ -277,7 +277,7 @@ Production-ready full-stack monorepo template combining Next.js 15 with NestJS 1
 
 ### [🍅 Pomodoro Menubar](https://github.com/onurdilmen/pomodoro-menubar)
 
-<img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/screenshots/pomodoro-app.png" alt="Pomodoro Menubar" width="100%" onerror="this.style.display='none'"/>
+<img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/screenshots/pomodoro-app.svg" alt="Pomodoro Menubar preview" width="100%"/>
 
 Tiny native macOS menu bar Pomodoro timer (~176KB binary). Swift + WebKit hybrid, MIT-licensed.
 
@@ -288,7 +288,7 @@ Tiny native macOS menu bar Pomodoro timer (~176KB binary). Swift + WebKit hybrid
 
 ### [🛡 Sentinel](https://github.com/onurdilmen/sentinel)
 
-<img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/screenshots/sentinel-report.png" alt="Sentinel" width="100%" onerror="this.style.display='none'"/>
+<img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/screenshots/sentinel-report.svg" alt="Sentinel preview" width="100%"/>
 
 cPanel/WHM security audit and hardening tool. Scans for common misconfigurations, weak permissions, and known CVEs in shared hosting environments.
 
