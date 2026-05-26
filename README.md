@@ -46,7 +46,6 @@
 - 🚢 [E-Ship Supply](https://e-shipsupply.com) — Türkiye'nin ilk denizcilik B2B pazaryerinin teknik liderliği (108+ tedarikçi · 720+ ilan · 4 dil)
 - 🌐 TeknoWeb Platform — WHMCS alternatifi modern hosting otomasyonu (Next.js + NestJS)
 - 🛒 Brahma Market — Plugin mimarili premium e-ticaret altyapısı
-- 🔐 [Sentinel](https://github.com/onurdilmen/sentinel) — cPanel/WHM güvenlik denetim aracı
 
 ## 🇬🇧 About
 
@@ -57,7 +56,6 @@ Senior Full-Stack Developer & Tech Lead with 10+ years of experience. I speciali
 - 🚢 Technical leadership of [E-Ship Supply](https://e-shipsupply.com) — Turkey's first maritime B2B marketplace
 - 🌐 TeknoWeb Platform — modern hosting automation
 - 🛒 Brahma Market — plugin-based commerce platform
-- 🔐 [Sentinel](https://github.com/onurdilmen/sentinel) — cPanel/WHM security audit toolkit
 
 ---
 
@@ -217,7 +215,6 @@ What I'm actively building this month (✅ shipped · 🟡 in progress · ⚪ pl
 - [ ] 🚢 E-Ship Supply v3 — fleet ops module _(in progress, May 2026 launch)_
 - [ ] 🌐 TeknoWeb Platform — WHMCS migration, account provisioning state machine
 - [ ] 🛒 Brahma Market — plugin marketplace MVP (commerce plugins as first-class repos)
-- [ ] 🔐 Sentinel — CVE feed integration, daily WHM scan reports, R2 backup verification
 - [ ] 📚 LocalTR — Sparkle auto-update channel for macOS app
 - [ ] 🏗️ This profile README — keep evolving (you're looking at iteration #8)
 
@@ -347,14 +344,6 @@ Tiny native macOS menu bar Pomodoro timer (~176KB binary). Swift + WebKit hybrid
 </td>
 <td width="50%" valign="top">
 
-### [🛡 Sentinel](https://github.com/onurdilmen/sentinel)
-
-<img src="https://raw.githubusercontent.com/onurdilmen/onurdilmen/main/assets/screenshots/sentinel-report.svg" alt="Sentinel preview" width="100%"/>
-
-cPanel/WHM security audit and hardening tool. Scans for common misconfigurations, weak permissions, and known CVEs in shared hosting environments.
-
-`Python` · `cPanel` · `Security` · `CVE`
-
 </td>
 </tr>
 </table>
@@ -400,7 +389,7 @@ cPanel/WHM security audit and hardening tool. Scans for common misconfigurations
 Recent contributions to public projects (active goal: regular OSS upstream).
 
 - 🤝 **Looking to upstream:** Next.js, NestJS, Prisma, Tailwind ecosystem — feel free to nudge with good first issues
-- 🛡️ **Maintaining:** [`onurdilmen/sentinel`](https://github.com/onurdilmen/sentinel) · [`onurdilmen/pomodoro-menubar`](https://github.com/onurdilmen/pomodoro-menubar)
+- 🛡️ **Maintaining:** [`onurdilmen/pomodoro-menubar`](https://github.com/onurdilmen/pomodoro-menubar)
 - 💖 **Sponsoring:** [@sindresorhus](https://github.com/sindresorhus) and others — paying the OSS bill forward
 
 ---
